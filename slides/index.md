@@ -1,5 +1,5 @@
 
-# ECC 101
+# 1 = 0.99999...
 
 From the terminal, pop in:
 
